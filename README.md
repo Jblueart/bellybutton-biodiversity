@@ -5,3 +5,8 @@ This isn't my favorite module, but I am glad to know how to use Plotly. I think 
 
 
 ![image](https://user-images.githubusercontent.com/104408782/184499396-18b67901-bbfd-4806-aa83-2e3e2547b398.png)
+
+
+#dropdown menu 
+The Dropdown feature allows for website visitors to explore the range of test-subjects to better visualize the individaul variance in bacteria types and levels. 
+Providing the bubble chart really helps contextualize the information. 
